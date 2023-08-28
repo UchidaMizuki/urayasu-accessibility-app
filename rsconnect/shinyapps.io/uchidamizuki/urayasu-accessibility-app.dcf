@@ -1,0 +1,13 @@
+name: urayasu-accessibility-app
+title: urayasu-accessibility-app
+username: uchidamizuki
+account: uchidamizuki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9697897
+bundleId: 7617373
+url: https://uchidamizuki.shinyapps.io/urayasu-accessibility-app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data-raw
